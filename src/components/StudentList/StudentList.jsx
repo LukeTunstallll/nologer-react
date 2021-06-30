@@ -2,7 +2,7 @@ import React from "react";
 import Navbar from "../Navbar";
 import "./styles.scss";
 
-const Home = () => {
+const StudentList = () => {
   return (
     <div>
       <Navbar />
@@ -10,4 +10,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default StudentList;
